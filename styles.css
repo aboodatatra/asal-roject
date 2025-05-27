@@ -291,7 +291,18 @@ section .main .main_img img{
     margin: auto 20px;
 }
 
+.arrivals .arrivals_box .arrivals_card:hover{
+    box-shadow: 0 0 5px #089da1;
+}
 
+.arrivals .arrivals_box .arrivals_card .arrivals_image{
+    width: 150px;
+    height: 220px;
+    margin: 0 auto;
+    cursor: pointer;
+    box-shadow: 0 0 8px rgba(0,0,0,0.5);
+    overflow: hidden;
+}
 
 
 

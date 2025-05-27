@@ -533,7 +533,15 @@ footer .footer_main .tag i{
     margin-right: 10px;
 }
 
-   border-radius: 25px;
+footer .footer_main .tag .social_link i{
+    margin: 0 5px;
+}
+
+footer .footer_main .tag .search_bar{
+    width: 230px;
+    height: 30px;
+    background: rgba(202,202,202);
+    border-radius: 25px;
 }
 
 

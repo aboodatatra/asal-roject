@@ -600,7 +600,14 @@ footer .end span{
         width: 600px;
     }
     
-   
+    .blog .blog_box .blog_card,
+    .blog .blog_box .blog_card .blog_img {
+        width: 350px;
+    }
+    
+    .blog .blog_box .blog_card .blog_img {
+        height: 250px;
+    }
 }
 
 

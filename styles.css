@@ -610,7 +610,35 @@ footer .end span{
     }
 }
 
-
+/* Medium Devices (Tablets) */
+@media (max-width: 992px) {
+    section .main {
+        flex-direction: column;
+        justify-content: center;
+        height: 100%;
+        padding-top: 100px;
+    }
+    
+    section .main .main_img {
+        margin-top: 50px;
+    }
+    
+   
+    
+    
+    
+   
+    
+ 
+    
+    
+    
+   
+    
+   
+    
+ 
+}
 
 
 

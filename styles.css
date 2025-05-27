@@ -127,3 +127,13 @@ section .main .main_img img{
     padding: 15px 10px;
 }
 
+.services .services_box .services_card i{
+    color: #089da1;
+    font-size: 45px;
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+
+.services .services_box .services_card h3{
+    margin-bottom: 10px;
+}

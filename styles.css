@@ -505,7 +505,16 @@ footer .footer_main .tag{
     margin: 10px 0;
 }
 
+footer .footer_main .tag img{
+    width: 100px;
+    margin-bottom: 10px;
+}
 
+footer .footer_main .tag p{
+    width: 250px;
+    line-height: 22px;
+    text-align: justify;
+}
 
 
 

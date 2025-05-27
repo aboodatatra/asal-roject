@@ -674,16 +674,64 @@ footer .end span{
         top: 20px;
     }
     
+    .featured_boks {
+        height: auto;
+        padding-bottom: 30px;
+    }
     
+    .arrivals {
+        height: auto;
+    }
     
-   
+    .arrivals .arrivals_box {
+        grid-template-columns: repeat(2, 1fr);
+    }
     
-   
+    .reviews .review_box {
+        flex-wrap: wrap;
+        height: auto;
+    }
     
- 
+    .reviews .review_box .review_card {
+        margin: 15px;
+    }
+    
+    .blog .blog_box {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
+    }
+    
+    footer .footer_main {
+        flex-wrap: wrap;
+        justify-content: flex-start;
+        padding: 0 20px;
+    }
+    
+    footer .footer_main .tag {
+        margin: 10px 20px;
+    }
 }
 
-
+/* Small Devices (Landscape Phones) */
+@media (max-width: 768px) {
+    section nav {
+        padding: 0 20px;
+    }
+    
+    section nav ul {
+        display: none;
+    }
+    
+ 
+    
+   
+    
+   
+    
+  
+    
+    
+}
 
 
 

@@ -868,7 +868,10 @@ footer .end span{
     display: block;
 }
 
-
+.mobile-menu ul {
+    list-style: none;
+    padding: 0;
+}
 
 
 

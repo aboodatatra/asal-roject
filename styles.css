@@ -864,9 +864,14 @@ footer .end span{
     z-index: 99;
 }
 
+.mobile-menu.active {
+    display: block;
+}
 
-
-
+.mobile-menu ul {
+    list-style: none;
+    padding: 0;
+}
 
 
 

@@ -467,7 +467,15 @@ section .main .main_img img{
     padding: 20px;
 }
 
+.blog .blog_box .blog_card .blog_tag h2{
+    color: #089da1;
+}
 
+.blog .blog_box .blog_card .blog_tag p{
+    margin-top: 10px;
+    text-align: justify;
+    line-height: 22px;
+}
 
 
 

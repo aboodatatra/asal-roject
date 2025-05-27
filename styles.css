@@ -490,7 +490,20 @@ section .main .main_img img{
 
 
 
+footer{
+    width: 100%;
+    background: #eaeaea;
+}
 
+footer .footer_main{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+footer .footer_main .tag{
+    margin: 10px 0;
+}
 
 
 

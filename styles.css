@@ -443,7 +443,18 @@ section .main .main_img img{
     grid-template-columns: 1fr 1fr 1fr;
 }
 
+.blog .blog_box .blog_card{
+    margin: 0 auto;
+    width: 450px;
+    height: auto;
+    box-shadow: 0 0 8px rgba(0,0,0,0.5);
+}
 
+.blog .blog_box .blog_card .blog_img{
+    width: 450px;
+    height: 300px;
+    overflow: hidden;
+}
 
 
 

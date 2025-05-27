@@ -490,9 +490,31 @@ section .main .main_img img{
 
 
 
+footer{
+    width: 100%;
+    background: #eaeaea;
+}
 
+footer .footer_main{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
 
+footer .footer_main .tag{
+    margin: 10px 0;
+}
 
+footer .footer_main .tag img{
+    width: 100px;
+    margin-bottom: 10px;
+}
+
+footer .footer_main .tag p{
+    width: 250px;
+    line-height: 22px;
+    text-align: justify;
+}
 
 
 

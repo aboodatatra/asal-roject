@@ -529,7 +529,12 @@ footer .footer_main .tag a{
     margin: 10px 0;
 }
 
+footer .footer_main .tag i{
+    margin-right: 10px;
+}
 
+   border-radius: 25px;
+}
 
 
 

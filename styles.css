@@ -430,7 +430,18 @@ section .main .main_img img{
     margin: 25px 0;
 }
 
+.blog h1{
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 30px;
+}
 
+.blog .blog_box{
+    width: 95%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
 
 
 

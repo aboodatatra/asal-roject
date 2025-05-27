@@ -282,6 +282,14 @@ section .main .main_img img{
     grid-gap: 25px 0;
 }
 
+.arrivals .arrivals_box .arrivals_card{
+    width: 250px;
+    height: 340px;
+    text-align: center;
+    padding: 5px;
+    border: 1px solid #919191;
+    margin: auto 20px;
+}
 
 
 

@@ -360,7 +360,13 @@ section .main .main_img img{
     justify-content: center;
 }
 
-
+.reviews .review_box .review_card{
+    width: 400px;
+    height: 320px;
+    box-shadow: 0 0 8px #089da1;
+    padding: 15px;
+    margin: 0 12px;
+}
 
 
 

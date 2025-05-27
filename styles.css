@@ -409,7 +409,15 @@ section .main .main_img img{
     background-position: center;
 }
 
-
+.banner .banner_btn{
+    padding: 8px 20px;
+    background: #089da1;
+    text-decoration: none;
+    color: #fff;
+    position: relative;
+    top: 70%;
+    left: 7%;
+}
 
 
 

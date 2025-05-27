@@ -623,13 +623,56 @@ footer .end span{
         margin-top: 50px;
     }
     
-   
+    section .main .main_img img {
+        width: 500px;
+        top: 30px;
+    }
     
+    section .main h1 {
+        font-size: 40px;
+    }
     
+    section .main p {
+        width: 90%;
+        max-width: 600px;
+    }
     
-   
+    .services .services_box {
+        flex-wrap: wrap;
+    }
     
- 
+    .services .services_box .services_card {
+        margin: 10px;
+    }
+    
+    .about {
+        flex-direction: column;
+        padding-top: 60px;
+    }
+    
+    .about .about_image img {
+        width: 90%;
+        max-width: 500px;
+    }
+    
+    .about .about_tag {
+        margin-top: 30px;
+        text-align: center;
+    }
+    
+    .about .about_tag h1 {
+        font-size: 40px;
+        bottom: 0;
+    }
+    
+    .about .about_tag p {
+        width: 90%;
+        margin: 10px auto;
+    }
+    
+    .about .about_tag .about_btn {
+        top: 20px;
+    }
     
     
     

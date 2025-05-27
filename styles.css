@@ -590,7 +590,25 @@ footer .end span{
 
 /* Media Queries */
 
-
+/* Large Devices (Desktops) */
+@media (max-width: 1200px) {
+    section .main .main_img img {
+        width: 600px;
+    }
+    
+    .about .about_image img {
+        width: 600px;
+    }
+    
+    .blog .blog_box .blog_card,
+    .blog .blog_box .blog_card .blog_img {
+        width: 350px;
+    }
+    
+    .blog .blog_box .blog_card .blog_img {
+        height: 250px;
+    }
+}
 
 
 

@@ -574,7 +574,19 @@ footer .end{
     color: #000;
 }
 
+footer .end span{
+    color: #089da1;
+    margin-left: 10px;
+}
 
+/* Responsive Design */
+
+/* Mobile Menu */
+.mobile-menu-btn {
+    display: none;
+    cursor: pointer;
+    font-size: 24px;
+}
 
 /* Media Queries */
 

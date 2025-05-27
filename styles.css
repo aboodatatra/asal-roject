@@ -842,10 +842,27 @@ footer .end span{
         margin: 20px 0;
     }
     
+    footer .footer_main .tag p {
+        width: 100%;
+        text-align: center;
+    }
     
+    footer .footer_main .tag .search_bar {
+        margin: 0 auto;
+    }
 }
 
-
+/* Add mobile menu functionality with CSS */
+.mobile-menu {
+    display: none;
+    position: fixed;
+    top: 60px;
+    left: 0;
+    width: 100%;
+    background: white;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+    z-index: 99;
+}
 
 
 

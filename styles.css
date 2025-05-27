@@ -873,6 +873,10 @@ footer .end span{
     padding: 0;
 }
 
-
+.mobile-menu li {
+    display: block;
+    padding: 15px 20px;
+    border-bottom: 1px solid #eee;
+}
 
 

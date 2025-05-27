@@ -40,5 +40,12 @@ section nav li{
     padding: 0 10px;
 }
 
+section nav li a{
+    text-decoration: none;
+    color: #000;
+}
 
+section nav li a:hover{
+    color: #089da1;
+}
 

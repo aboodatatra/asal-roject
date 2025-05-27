@@ -566,6 +566,13 @@ footer .footer_main .tag .search_bar button{
     cursor: pointer;
 }
 
+footer .end{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+    color: #000;
+}
 
 
 

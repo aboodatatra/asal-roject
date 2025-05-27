@@ -809,11 +809,38 @@ footer .end span{
         font-size: 30px;
     }
     
-   
+    .featured_boks .featured_book_box {
+        height: auto;
+        max-height: 70vh;
+    }
     
-   
+    .arrivals .arrivals_box {
+        grid-template-columns: 2fr;
+    }
     
-   
+    .arrivals .arrivals_box .arrivals_card {
+        width: 90%;
+        margin: 10px auto;
+    }
+    
+    .reviews .review_box .review_card {
+        width: 90%;
+    }
+    
+    .banner {
+        height: 40vh;
+    }
+    
+    footer .footer_main {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    footer .footer_main .tag {
+        width: 90%;
+        text-align: center;
+        margin: 20px 0;
+    }
     
     
 }
